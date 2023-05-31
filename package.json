@@ -10,7 +10,7 @@
   "author": "Arpit Vasani",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "puppeteer-core": "^10.0.0"
   },
   "devDependencies": {
